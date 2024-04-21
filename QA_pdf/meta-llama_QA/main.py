@@ -8,7 +8,7 @@ import torch
 
 if __name__ == "__main__":
     model_id = 'meta-llama/Llama-2-7b-chat-hf'
-    hf_auth = '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'
+    hf_auth = ''
     query = input("Enter your query: ")
     filename = input("Enter filename.csv: ")
 
