@@ -1,0 +1,96 @@
+{
+    "document_name": "example_document.pdf",
+    "pages": [
+        {
+            "page_number": 4,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 814.562744140625,
+                        "top_left_y": 1207.7740478515625,
+                        "bottom_right_x": 5950.095703125,
+                        "bottom_right_y": 5568.13427734375
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 772.252685546875,
+                        "top_left_y": 1157.4246826171875,
+                        "bottom_right_x": 5950.6181640625,
+                        "bottom_right_y": 4606.7744140625
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 877.0499877929688,
+                        "top_left_y": 1970.324951171875,
+                        "bottom_right_x": 5976.49951171875,
+                        "bottom_right_y": 5181.02197265625
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 901.528564453125,
+                        "top_left_y": 5761.673828125,
+                        "bottom_right_x": 5866.84228515625,
+                        "bottom_right_y": 7691.74560546875
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 773.0997314453125,
+                        "top_left_y": 2471.25048828125,
+                        "bottom_right_x": 6002.99462890625,
+                        "bottom_right_y": 4132.20166015625
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 11,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 814.644775390625,
+                        "top_left_y": 3953.758544921875,
+                        "bottom_right_x": 5960.44873046875,
+                        "bottom_right_y": 6540.42529296875
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 12,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 808.141357421875,
+                        "top_left_y": 1075.443115234375,
+                        "bottom_right_x": 5974.3310546875,
+                        "bottom_right_y": 3010.579345703125
+                    }
+                }
+            ]
+        }
+    ]
+}

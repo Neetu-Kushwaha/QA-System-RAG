@@ -1,0 +1,103 @@
+{
+    "document_name": "example_document.pdf",
+    "pages": [
+        {
+            "page_number": 4,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 814.562744140625,
+                        "top_left_y": 1207.7740478515625,
+                        "bottom_right_x": 5950.095703125,
+                        "bottom_right_y": 5568.13427734375
+                    },
+                    "summary": "Here is a concise summary of the table:\n\nThe table shows the percentage change in various receipts and expenditure of the Indian government for the period Apr-Nov 2021 compared to the same period in previous years (2020, 2019, and 2018). The table also provides a five-year average for comparison.\n\nThe receipts show a significant increase in revenue from various sources such as taxes, non-tax revenues, and non-debt receipts. However, the expenditure has also increased, resulting in a revenue deficit. The primary deficit is high, but the fiscal deficit has decreased compared to previous years.\n\nHere is a concise summary of the text:\n\nThe Indian government's receipts and expenditure for Apr-Nov 2021 are compared to previous years (2020, 2019, and 2018) in this table. The receipts have increased significantly, while the expenditure has also risen, resulting in a revenue deficit. The primary deficit is high, but the fiscal deficit has decreased compared to previous years."
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 772.252685546875,
+                        "top_left_y": 1157.4246826171875,
+                        "bottom_right_x": 5950.6181640625,
+                        "bottom_right_y": 4606.7744140625
+                    },
+                    "summary": "Here's the concise summary of the table you provided:\n\nThe table shows the gross tax revenue for the period of April-November in FY23 and YoY growth (percentage) for each row. The direct taxes include corporation tax and taxes on income other than corporation tax, while indirect taxes consist of custom duties, service tax, and GST.\n\nIn FY23, the gross tax revenue was 4752 crores, with 1542 crores coming from direct taxes and 3209 crores from indirect taxes. The YoY growth for direct taxes was 63.1%, while indirect taxes saw a growth of 67.0%. Corporation tax had the highest growth at 64.6%, followed by taxes on income other than corporation tax at 62.7%. Custom duties saw a negative growth rate of -52.6%, while service tax and GST had positive growth rates of 23.2% and 36.5%, respectively.\n\nOverall, the table shows that direct taxes and indirect taxes have seen significant YoY growth in FY23, with corporation tax and taxes on income other than corporation tax leading the way. However, custom duties and service tax have seen negative growth rates."
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 877.0499877929688,
+                        "top_left_y": 1970.324951171875,
+                        "bottom_right_x": 5976.49951171875,
+                        "bottom_right_y": 5181.02197265625
+                    },
+                    "summary": "Here is a concise summary of the table:\n\nTotal state taxes subsumed in GST:\n\n* FY13: 2.86 lakh crore\n* FY14: 3.09 lakh crore\n* FY15: 3.32 lakh crore\n* FY16: 3.97 lakh crore\n* FY17: 3.92 lakh crore\n\nTotal central taxes subsumed in GST:\n\n* FY13: 0.33 lakh crore (Union Excise duties from non-petroleum products)\n* FY14: 0.35 lakh crore\n* FY15: 0.34 lakh crore\n* FY16: 0.37 lakh crore\n* FY17: 0.60 lakh crore (including service tax)\n\nTotal taxes subsumed in GST (Centre + States):\n\n* FY13: 2.86 + 0.33 = 3.19 lakh crore\n* FY14: 3.09 + 0.35 = 3.44 lakh crore\n* FY15: 3.32 + 0.34 = 3.66 lakh crore\n* FY16: 3.97 + 0.37 = 4.34 lakh crore\n* FY17: 3.92 + 0.60 = 4.52 lakh crore\n\nCAGR over FY13: 11.54%\n\nNominal GDP:\n\n* FY13: 99.44 lakh crore\n* FY14: 112.34 lakh crore\n* FY15: 124.68 lakh crore\n* FY16: 137.72 lakh crore\n* FY17: 153.92 lakh crore\n\nCAGR over FY13: 11.54%"
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 901.528564453125,
+                        "top_left_y": 5761.673828125,
+                        "bottom_right_x": 5866.84228515625,
+                        "bottom_right_y": 7691.74560546875
+                    },
+                    "summary": "Here's the concise summary you requested:\n\nFor FY19-FY23, the total GST collection (domestic supplies) increased at a CAGR of 10.2% from 8.77 lakh crore to 12.94 lakh crore. The nominal GDP also grew at a CAGR of 9.6% from 189.00 lakh crore to 273.09 lakh crore. The buoyancy of GST collections (domestic supplies) was 1.0603, while the buoyancy of GST collections including GST on imports was 1.1299.\n\nWould you like me to summarize anything else?"
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 773.0997314453125,
+                        "top_left_y": 2471.25048828125,
+                        "bottom_right_x": 6002.99462890625,
+                        "bottom_right_y": 4132.20166015625
+                    },
+                    "summary": "Here is a concise summary of the table:\n\nFY18 FY19 FY20 | FY21 | FY22 PA | FY23 BE\nInterest receipts: 0.14, 0.12, 0.12, 0.17, 0.22, 0.18, 0.17\nDividends & Profits: 0.91, 1.13, 1.86, 0.97, 1.61, 1.14, 0.68\nExternal Grants: 0.04, 0.01, 0.00, 0.02, 0.01, 0.01, 0.01\nOthers: 0.84, 0.90, 1.64, 1.34, eZ Non-tax Revenue: 2.36, 3.27, 2.08, 3.48, 2.70, 1.98\n\nNote that each row is included in the summary, and the values are listed in the order they appear in the table."
+                }
+            ]
+        },
+        {
+            "page_number": 11,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 814.644775390625,
+                        "top_left_y": 3953.758544921875,
+                        "bottom_right_x": 5960.44873046875,
+                        "bottom_right_y": 6540.42529296875
+                    },
+                    "summary": "Here is a concise summary of the table:\n\nIn FY23, the government allocated Rs. 102.10 lakh crore for various sectors, with the largest allocation going to Road Transport and Highways (RTH) at Rs. 1.88 lakh crore, followed by Railways at Rs. 1.37 lakh crore, Defence Services (capital outlay) at Rs. 1.52 lakh crore, and Transfer to States at Rs. 1.12 lakh crore. Other sectors with significant allocations include Telecommunications at Rs. 0.54 lakh crore, Housing and Urban Affairs at Rs. 0.27 lakh crore, Atomic Energy at Rs. 0.14 lakh crore, Defence (Civil) at Rs. 0.08 lakh crore, Police at Rs. 0.11 lakh crore, Space at Rs. 0.07 lakh crore, and Health and Family Welfare at Rs. 0.06 lakh crore. The YoY growth rate for each sector is also provided, with the highest growth rate observed in RTH (102.10%) and the lowest growth rate observed in Health and Family Welfare (-16.33%)."
+                }
+            ]
+        },
+        {
+            "page_number": 12,
+            "tables": [
+                {
+                    "bounding_box": {
+                        "top_left_x": 808.141357421875,
+                        "top_left_y": 1075.443115234375,
+                        "bottom_right_x": 5974.3310546875,
+                        "bottom_right_y": 3010.579345703125
+                    },
+                    "summary": "Here is a concise summary of the given table:\n\nTotal Revenue Expenditure for FY23BE (in Lakhs Crore)\n\n* Salaries (pay & allowances): 18.79, 20.07, 21.25, 22.46, 23.67, 25.10\n* Pensions: 1.46, 1.6, 1.84, 2.08\n* Interest payment: 5.29, 5.83, 6.12, 6.80, 8.05, 9.41\n* Major subsidies: 1.97, 2.28, 7.08, 4.46, 3.18\n* Defence Services: 1.86, 1.96, 2.08, 2.06, 2.33\n\nNote: Each row is included in the summary."
+                }
+            ]
+        }
+    ]
+}
